@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067369417088",
+    "firebase_url": "https://planindia-01.firebaseio.com",
+    "project_id": "planindia-01",
+    "storage_bucket": "planindia-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067369417088:android:ee87c283be439440",
+        "android_client_info": {
+          "package_name": "com.ams.planindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067369417088-qis4uccmi1f318o0s00u5nmht0818g7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntUNhjwnX5mOIhqJsdu8ZC7-vQvqRgsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
